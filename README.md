@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @rhuanburle
-- 👀 I’m interested in  aprender mais sobre os diversos tipos de linguagens no mercado e  escolher em qual vou me aprofundar  mais.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me  : rhuanburlerb@gmail.com
